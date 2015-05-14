@@ -1,7 +1,5 @@
 package com.okan.old;
 
-import com.okan.hw1.Student;
-
 import java.util.Random;
 
 /**
