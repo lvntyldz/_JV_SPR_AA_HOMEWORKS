@@ -8,6 +8,16 @@ public class Student {
     public int midterm1; // vize 1
     public int midterm2; // vize 2
     public int exam; // final
+    public String name;
+
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 
     public int getId() {
         return id;
